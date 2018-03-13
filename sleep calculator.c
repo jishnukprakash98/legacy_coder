@@ -22,3 +22,7 @@ int main(void)
     printf("AM [1]\nor\nPM [2]\n");
     int w = GetInt();
     // interpret inputs and determine how to calculate hours slept
+    {if ((b == 1) && (w == 1))
+    {
+        int slept = wakeup-bedtime;
+        printf("You slept for %i hours last night\n",slept);
