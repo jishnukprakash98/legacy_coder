@@ -3,7 +3,7 @@
 // it assumes that: 
 // you're using a 12 hour clock
 // you sleep for a maximum of 24 hours
-//
+// hehe
 
 #include <stdio.h>
 #include <cs50.h>
